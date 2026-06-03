@@ -1,5 +1,10 @@
+<<<<<<< HEAD
  import java.util.*;
  class Solution {
+=======
+import java.util.*;
+class Solution {
+>>>>>>> c99a93cae545fa768ec87524adc2c7d638bbd90e
   public int[][] merge(int[][] intervals) {
       int n = intervals.length;
     
