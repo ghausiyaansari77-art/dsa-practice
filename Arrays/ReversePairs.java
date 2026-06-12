@@ -59,5 +59,3 @@ class Solution {
        return mergeSort(nums, low, high);
    }
 }
-
-
