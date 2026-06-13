@@ -3,6 +3,7 @@ This repository contains my Java DSA practice problems.
 
 ## Topics Covered
 - Arrays
+- Strings
   
 ## Platforms
 - LeetCode
