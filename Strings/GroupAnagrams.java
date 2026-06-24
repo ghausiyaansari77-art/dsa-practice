@@ -45,3 +45,11 @@ class Solution {
    }
 }
 
+/* 
+ATLASDB_URL=mongodb+srv://delta-student:<db_password>@cluster0.0fxa0rc.mongodb.net/?appName=Cluster0
+
+
+awZzD7dNX3zzYk0F 
+
+ATLASDB_URL=mongodb+srv://delta-student:awZzD7dNX3zzYk0F@cluster0.0fxa0rc.mongodb.net/?appName=Cluster0
+*/
