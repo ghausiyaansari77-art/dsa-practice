@@ -4,6 +4,7 @@ This repository contains my Java DSA practice problems.
 ## Topics Covered
 - Arrays
 - Strings
+- Recursion & Backtracking
   
 ## Platforms
 - LeetCode
