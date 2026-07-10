@@ -1,4 +1,4 @@
-
+import java.util.*;
 
 class Solution {
     public int countInversions(int arr[] , int left, int mid , int right) {
