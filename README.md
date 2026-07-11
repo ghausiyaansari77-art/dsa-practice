@@ -9,6 +9,7 @@ This repository contains my Java DSA practice problems.
 ## Platforms
 - LeetCode
 - GeeksforGeeks
+- Linked List
 
 ## Language
 - Java
