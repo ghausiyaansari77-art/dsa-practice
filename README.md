@@ -5,11 +5,12 @@ This repository contains my Java DSA practice problems.
 - Arrays
 - Strings
 - Recursion & Backtracking
+- Linked List
   
 ## Platforms
 - LeetCode
 - GeeksforGeeks
-- Linked List
+  
 
 ## Language
 - Java
